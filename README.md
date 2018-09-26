@@ -12,19 +12,12 @@
 ![](img/7.jpg '')
 7. 打开IE，复制3里的那个地址。提示让你加载个控件，点是。然后网银控件的问题就解决的，可以输了密码了。....害我折腾了半天。
 ![](img/8.jpg '')
-8. 				<tr>
-				<td width="15" height="100" background="/icbc/newperbank/images/denglu_02.gif">&nbsp;</td>
-				<td width="541">
-					<div style="font-size:16px;margin-left:2em;">
-						我行网银已升级为全新版本，您当前使用的浏览器暂不支持登录网银，请使用如下浏览器登录访问。<br />
-					    <table style="font-size:16px;">
-					    	<tr> <td>Windows操作系统：</td> <td>IE浏览器：IE7以上版本（暂不含EDGE浏览器）</td></tr>
-					    	<tr> <td></td> <td>Chrome浏览器：38版本-41版本</td></tr>
-					    	<tr> <td>MAC OS操作系统：</td> <td>Safari浏览器：Safari7以上版本</td></tr>  	
-					    </table>
-					</div>
-				</td>
-			</tr>	
+8. 我行网银已升级为全新版本，您当前使用的浏览器暂不支持登录网银，请使用如下浏览器登录访问。<br />
+ <table style="font-size:16px;">
+<tr> <td>Windows操作系统：</td> <td>IE浏览器：IE7以上版本（暂不含EDGE浏览器）</td></tr>
+<tr> <td></td> <td>Chrome浏览器：38版本-41版本</td></tr>
+<tr> <td>MAC OS操作系统：</td> <td>Safari浏览器：Safari7以上版本</td></tr>  	
+</table>						   			
 
 ##### 总结：银行类的东西最好使用IE浏览器！！！
 
